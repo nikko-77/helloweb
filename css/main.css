@@ -1,0 +1,33 @@
+body {
+	font-family: Noto Sans;
+	font-size: small;
+	color: darkcyan;
+}
+
+h2 {
+	text-align: center;
+}
+
+#box {
+	border: solid #0BB 0.2rem;
+	border-radius: 0.5rem;
+	box-shadow: #00000022 0.5rem 0.5rem;
+	width: 20rem;
+	padding: 1rem;
+	margin: 0.5rem auto;
+	background-color: #00FFFF;
+}
+
+#texto1 {
+	text-align: left;
+	font-weight: bold;
+}
+
+#texto2 {
+	text-align: center;
+}
+
+#texto3 {
+	text-align: right;
+	font-style: italic;
+}
